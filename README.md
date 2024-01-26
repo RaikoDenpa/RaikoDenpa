@@ -1,3 +1,4 @@
+```console
 [Raikodenpa@Kaiyo ~]$ neofetch
                    -`                    Raikodenpa@Kaiyo
                   .o+`                   ---------------------- 
@@ -18,3 +19,4 @@
   `+sso+:-`                 `.-/+oso:    Frameworks: ["Electron.js", "React.js", "Express"]
  `++:.                           `-/+/   Editors: ["Visual Studio Code"]
  .`                                 `/
+```
