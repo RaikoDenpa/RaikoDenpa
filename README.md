@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**RaikoDenpa/RaikoDenpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Raikodenpa@Kaiyo ~]$ neofetch
+                   -`                    Raikodenpa@Kaiyo
+                  .o+`                   ---------------------- 
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: Kaiyo
+               `+oooooo:                 Kernel: 6.1.61-1-lts 
+               -+oooooo+:                Uptime: 19 hours, 28 mins 
+             `/:-:++oooo+:               Packages: 1312 (pacman) 
+            `/++++/+++++++:              Shell: zsh
+           `/++++++++++++++:             Resolution: 1920x1080
+          `/+++ooooooooooooo/`           DE: Gnome
+         ./ooosssso++osssssso+`          WM: Qtile
+        .oossssso-````/ossssss+`         Theme: Catpucchin-Mocha [GTK2/3]
+       -osssssso.      :ssssssso.        Occupation: ["Student", "Web Developer"]
+      :osssssss/        osssso+++.       Interests: ["Nijisanji", "programming", "anime", "gaming"]
+     /ossssssss/        +ssssooo/-       Games: ["Valorant", "Minecraft", "HoloCure"]
+   `/ossssso+/:-        -:/+osssso+-     Languages: ["JavaScript", "HTML", "CSS", "Python"]
+  `+sso+:-`                 `.-/+oso:    Frameworks: ["Electron.js", "React.js", "Express"]
+ `++:.                           `-/+/   Editors: ["Visual Studio Code"]
+ .`                                 `/
