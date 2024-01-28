@@ -15,8 +15,8 @@
        -osssssso.      :ssssssso.        Occupation: ["Student", "Web Developer"]
       :osssssss/        osssso+++.       Interests: ["Nijisanji", "programming", "anime", "gaming"]
      /ossssssss/        +ssssooo/-       Games: ["Valorant", "Minecraft", "HoloCure"]
-   `/ossssso+/:-        -:/+osssso+-     Languages: ["JavaScript", "HTML", "CSS", "Python"]
-  `+sso+:-`                 `.-/+oso:    Frameworks: ["Electron.js", "React.js", "Express"]
+   `/ossssso+/:-        -:/+osssso+-     Languages: ["JavaScript", "HTML", "CSS", "Python", "C#"]
+  `+sso+:-`                 `.-/+oso:    Frameworks: ["Svelte", "React.js", "Express", "Three.js"]
  `++:.                           `-/+/   Editors: ["Visual Studio Code"]
  .`                                 `/
 ```
