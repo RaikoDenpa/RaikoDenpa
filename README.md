@@ -13,7 +13,7 @@
          ./ooosssso++osssssso+`          WM: Qtile
         .oossssso-````/ossssss+`         Theme: Catpucchin-Mocha [GTK2/3]
        -osssssso.      :ssssssso.        Occupation: ["Student", "Web Developer"]
-      :osssssss/        osssso+++.       Interests: ["Nijisanji", "programming", "anime", "gaming"]
+      :osssssss/        osssso+++.       Interests: ["indie vtubers", "programming", "anime", "gaming"]
      /ossssssss/        +ssssooo/-       Games: ["Valorant", "Minecraft", "HoloCure"]
    `/ossssso+/:-        -:/+osssso+-     Languages: ["JavaScript", "HTML", "CSS", "Python", "C#"]
   `+sso+:-`                 `.-/+oso:    Frameworks: ["Svelte", "React.js", "Express", "Three.js"]
