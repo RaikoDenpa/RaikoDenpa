@@ -12,6 +12,7 @@ I code as a hobby and for my own enjoyment.
 ### Languages
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![C++ Badge](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](https://wikipedia.org/wiki/C%2B%2B)
 
 ### Web-stack
 [![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
