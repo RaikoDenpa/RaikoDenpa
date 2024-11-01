@@ -7,7 +7,7 @@ I code as a hobby and for my own enjoyment.
 <details>
   <summary>Stuff I Do</summary>
 
-## 💼 Experience
+## The stuff in question
 
 ### Languages
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
