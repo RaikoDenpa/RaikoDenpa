@@ -36,4 +36,6 @@ I code as a hobby and for my own enjoyment.
 </details>
 
 ------
-contact: **contact [at] lopertot.com**. [discord: @raikodenpa](https://discord.com/users/840568379331837972)
+contact:
+**contact me on discord**
+[discord: @raikodenpa](https://discord.com/users/840568379331837972)
