@@ -1,7 +1,7 @@
 <img align="right" src="./assets/avatar.jpg" width="30%" height="30%" />
 Raiko.<br/>
 
-Not that good at coding as I am still learning.
+Not that good at coding as I am still learning.<br/>
 I code as a hobby and for my own enjoyment.
 
 <details>
