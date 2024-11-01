@@ -2,7 +2,8 @@
 Raiko.<br/>
 
 Not that good at coding as I am still learning.<br/>
-I code as a hobby and for my own enjoyment.
+I code as a hobby and for my own enjoyment.<br/>
+Mostly Cryptography And Web Development
 
 <details>
   <summary>Stuff I Do</summary>
