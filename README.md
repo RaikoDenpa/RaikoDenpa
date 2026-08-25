@@ -1,9 +1,9 @@
 <img align="right" src="./assets/avatar.jpg" width="30%" height="30%" />
 Raiko.<br/>
 
-Not that good at coding as I am still learning.<br/>
-I code as a hobby and for my own enjoyment.<br/>
-Mostly Cryptography And Web Development
+Github is gay<br/>
+I code as a hobby and for work.<br/>
+80% of my repo's are private but the public ones are pretty cool ig
 
 <details>
   <summary>Stuff I Do</summary>
